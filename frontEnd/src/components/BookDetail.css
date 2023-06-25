@@ -1,0 +1,20 @@
+
+.BookDetDiv{
+    display: flex;
+    flex-direction: row;
+    width: 60rem;
+    margin: 300px auto auto auto;
+    align-items: center;
+    
+  
+}
+
+.BookDetDiv img{
+    width: 30%;
+    height:auto ;
+    margin: 30px 30px 30px 30px;
+}
+
+.BookDetail{
+    width: 50%;
+}
